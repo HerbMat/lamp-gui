@@ -1,0 +1,20 @@
+{
+  "name": "lamp-gui",
+  "short_name": "lamp-gui",
+  "theme_color": "#008000",
+  "icons": [
+    {
+      "src": "./img/icons/lightbulb_192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icons/light-bulb-2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000"
+}

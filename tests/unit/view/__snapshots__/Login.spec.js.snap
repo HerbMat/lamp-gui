@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login.vue Snapshot match 1`] = `
+<div class="flex-box center">
+  <div class="container">
+    <form class="login-form-layout">
+      <app-errors-stub errors=""></app-errors-stub> <label for="username">Username</label> <input type="text" id="username"> <label for="password">Password</label> <input type="password" id="password"> <input type="submit" id="login-submit" value="Log in">
+    </form>
+  </div>
+</div>
+`;
